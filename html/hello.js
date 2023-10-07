@@ -5,7 +5,7 @@ document.writeln(a)
 document.writeln(linebreak)
 
 function check(){
-    let a=15;
+    let a=16;
     document.writeln(a)
     document.writeln(linebreak)
 }

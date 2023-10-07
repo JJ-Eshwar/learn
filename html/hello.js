@@ -1,3 +1,12 @@
+let color =prompt("Enter your background color")
+document.body.style.background=color
+
+
+
+
+
+
+
 // let a=10;
 // let b=20;
 // let linebreak="<br/>";
@@ -116,5 +125,3 @@
 // console.log(`i am "${word}" ${sentence.includes(word) ?'one':'is not'} is eshwar`);
 
 
-let color =prompt("Enter your background color")
-document.body.style.background=color

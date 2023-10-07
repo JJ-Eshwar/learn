@@ -1,15 +1,15 @@
-let a=10;
-let b=20;
-let linebreak="<br/>";
-document.writeln(a)
-document.writeln(linebreak)
+// let a=10;
+// let b=20;
+// let linebreak="<br/>";
+// document.writeln(a)
+// document.writeln(linebreak)
 
-function check(){
-    let a=16;
-    document.writeln(a)
-    document.writeln(linebreak)
-}
-document.writeln(check())
+// function check(){
+//     let a=16;
+//     document.writeln(a)
+//     document.writeln(linebreak)
+// }
+// document.writeln(check())
 // document.writeln(a)
 // let a=1; 
 // a+=5;
@@ -116,3 +116,5 @@ document.writeln(check())
 // console.log(`i am "${word}" ${sentence.includes(word) ?'one':'is not'} is eshwar`);
 
 
+let color =prompt("Enter your background color")
+document.body.style.background=color
